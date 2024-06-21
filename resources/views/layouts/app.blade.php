@@ -94,7 +94,7 @@
                     <h2>Karibu <span>Shivyamapida</span></h2>
                     <p>Shirikisho la vyama vya Madereva na wamiliki wa pikipiki mkoa wa Dar es salaam.</p>
                     <div class="d-flex justify-content-center justify-content-lg-start" style="padding-bottom: 30px">
-                        <a href="#" class="btn-get-started" style="text-transform: uppercase;">LOGIN</a> 
+                        <a href="https://mfumo.shirikisho.co.tz" class="btn-get-started" style="text-transform: uppercase;">LOGIN</a> 
                         <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ"
                             class="glightbox btn-watch-video d-flex align-items-center"><i
                                 class="bi bi-play-circle"></i><span>Watch Video</span></a>
